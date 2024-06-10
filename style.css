@@ -3,7 +3,7 @@ h1 {
   color: blue;
 }
 
-.contact-btn {
+.btn btn-primary contact-btn {
   display: block;
   margin: 0 auto;
   width: 200px;
