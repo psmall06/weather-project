@@ -3,9 +3,16 @@ h1 {
   color: blue;
 }
 
-.btn btn-primary contact-btn {
+.contact-btn {
   display: block;
   margin: 0 auto;
   width: 200px;
   color: blueviolet;
+}
+
+img {
+  width: 90%;
+  margin: 20px auto;
+  border-radius: 20px;
+  display: block;
 }
