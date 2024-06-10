@@ -3,8 +3,9 @@ h1 {
   color: blue;
 }
 
-.contact-btn {
+img {
+  width: 30%;
+  margin: 20px auto;
+  border-radius: 20px;
   display: block;
-  margin: 0 auto;
-  width: 200px;
 }
