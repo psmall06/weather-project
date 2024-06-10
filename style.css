@@ -1,9 +1,9 @@
 h1 {
   text-align: center;
-  color: red;
+  color: blue;
 }
 img {
-  width: 90%;
+  width: 50%;
   margin: 20px auto;
   border-radius: 20px;
   display: block;
